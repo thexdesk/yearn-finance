@@ -85,7 +85,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.4.3",
-    "@material-ui/core": "^4.11.4",
+    "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "^4.0.0-alpha.57",
     "@tailwindcss/postcss7-compat": "npm:@tailwindcss/postcss7-compat",
@@ -96,7 +96,7 @@
     "babel-plugin-macros": "2.8.0",
     "bignumber.js": "^9.0.1",
     "bnc-notify": "^1.8.0",
-    "bnc-onboard": "^1.34.2",
+    "bnc-onboard": "^1.35.2",
     "bootstrap": "^4.5.3",
     "chalk": "^2.4.2",
     "compression": "1.7.4",
